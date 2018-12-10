@@ -1,0 +1,323 @@
+{
+    "frames": {
+        "dun1.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun10.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 0,
+                "y": 120
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun11.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 0,
+                "y": 240
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun12.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 131,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun13.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 131,
+                "y": 120
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun14.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 131,
+                "y": 240
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun15.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 262,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun2.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 262,
+                "y": 120
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun3.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 262,
+                "y": 240
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun4.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 393,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun5.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 524,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun6.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 393,
+                "y": 120
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun7.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 393,
+                "y": 240
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun8.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 524,
+                "y": 120
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dun9.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 130,
+                "x": 524,
+                "y": 240
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "dun.png",
+        "prefix": "motion/dun/"
+    }
+}

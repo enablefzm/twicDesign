@@ -1,0 +1,29 @@
+{
+    "frames": {
+        "loading_txt.png": {
+            "frame": {
+                "h": 17,
+                "idx": 0,
+                "w": 186,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 17,
+                "w": 186
+            },
+            "spriteSourceSize": {
+                "h": 17,
+                "w": 186,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "loadlast.png",
+        "prefix": "comp/loadlast/"
+    }
+}

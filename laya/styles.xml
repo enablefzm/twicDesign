@@ -1,0 +1,16 @@
+<res>
+   <item name="login/common_01.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="login/blank_01.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/jm_td.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=42,42,60,42" picType="0"/>
+   <item name="comp/jm_td2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="comp/di.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0"/>
+   <item name="comp/oline.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0"/>
+   <item name="comp/tanc.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=36,70,17,20" picType="0" scale="0"/>
+   <item name="comp/jm_jt.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=18,0,3,0" picType="0"/>
+   <item name="comp/jm_jt0.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,16,0,3" picType="0"/>
+   <item name="comp/jm_td3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=47,47,58,44" picType="0"/>
+   <item name="comp/jm_td4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,22,24,22" picType="0"/>
+   <item name="comp/jm_jt3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,22,0,1" picType="0"/>
+   <item name="comp/jm_td5.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,29,0,31" picType="0"/>
+   <item name="comp/battle/win.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>

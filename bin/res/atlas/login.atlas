@@ -1,0 +1,71 @@
+{
+    "frames": {
+        "blank_01.png": {
+            "frame": {
+                "h": 3,
+                "idx": 0,
+                "w": 3,
+                "x": 234,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 3,
+                "w": 3
+            },
+            "spriteSourceSize": {
+                "h": 3,
+                "w": 3,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "common_01.png": {
+            "frame": {
+                "h": 29,
+                "idx": 0,
+                "w": 26,
+                "x": 0,
+                "y": 53
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 29,
+                "w": 26
+            },
+            "spriteSourceSize": {
+                "h": 29,
+                "w": 26,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "ksyx.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 233,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 52,
+                "w": 233
+            },
+            "spriteSourceSize": {
+                "h": 52,
+                "w": 233,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "login.png",
+        "prefix": "login/"
+    }
+}

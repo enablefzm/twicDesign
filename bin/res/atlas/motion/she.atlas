@@ -1,0 +1,323 @@
+{
+    "frames": {
+        "she1.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she10.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 0,
+                "y": 111
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she11.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 0,
+                "y": 222
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she12.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 0,
+                "y": 333
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she13.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 102,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she14.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 204,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she15.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 306,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she2.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 102,
+                "y": 111
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she3.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 102,
+                "y": 222
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she4.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 102,
+                "y": 333
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she5.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 204,
+                "y": 111
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she6.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 306,
+                "y": 111
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she7.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 204,
+                "y": 222
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she8.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 204,
+                "y": 333
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "she9.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 101,
+                "x": 306,
+                "y": 222
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 110,
+                "w": 101
+            },
+            "spriteSourceSize": {
+                "h": 110,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "she.png",
+        "prefix": "motion/she/"
+    }
+}

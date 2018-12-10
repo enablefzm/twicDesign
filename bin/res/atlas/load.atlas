@@ -1,0 +1,50 @@
+{
+    "frames": {
+        "progress_01$bar.png": {
+            "frame": {
+                "h": 39,
+                "idx": 0,
+                "w": 319,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 39,
+                "w": 319
+            },
+            "spriteSourceSize": {
+                "h": 39,
+                "w": 319,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_01.png": {
+            "frame": {
+                "h": 39,
+                "idx": 0,
+                "w": 319,
+                "x": 0,
+                "y": 40
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 39,
+                "w": 319
+            },
+            "spriteSourceSize": {
+                "h": 39,
+                "w": 319,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "load.png",
+        "prefix": "load/"
+    }
+}

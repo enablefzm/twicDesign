@@ -1,0 +1,533 @@
+{
+    "frames": {
+        "binying.png": {
+            "frame": {
+                "h": 210,
+                "idx": 0,
+                "w": 138,
+                "x": 960,
+                "y": 283
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 210,
+                "w": 138
+            },
+            "spriteSourceSize": {
+                "h": 210,
+                "w": 138,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_chushou.png": {
+            "frame": {
+                "h": 142,
+                "idx": 0,
+                "w": 67,
+                "x": 1200,
+                "y": 225
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 142,
+                "w": 67
+            },
+            "spriteSourceSize": {
+                "h": 142,
+                "w": 67,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_dun.png": {
+            "frame": {
+                "h": 350,
+                "idx": 0,
+                "w": 171,
+                "x": 172,
+                "y": 197
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 350,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "h": 350,
+                "w": 171,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_jia.png": {
+            "frame": {
+                "h": 200,
+                "idx": 0,
+                "w": 100,
+                "x": 1099,
+                "y": 225
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 200,
+                "w": 100
+            },
+            "spriteSourceSize": {
+                "h": 200,
+                "w": 100,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_ma.png": {
+            "frame": {
+                "h": 350,
+                "idx": 0,
+                "w": 171,
+                "x": 747,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 350,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "h": 350,
+                "w": 171,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_nongmin.png": {
+            "frame": {
+                "h": 354,
+                "idx": 0,
+                "w": 171,
+                "x": 0,
+                "y": 197
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 354,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "h": 354,
+                "w": 171,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_paihang.png": {
+            "frame": {
+                "h": 224,
+                "idx": 0,
+                "w": 108,
+                "x": 1166,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 224,
+                "w": 108
+            },
+            "spriteSourceSize": {
+                "h": 224,
+                "w": 108,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_she.png": {
+            "frame": {
+                "h": 350,
+                "idx": 0,
+                "w": 171,
+                "x": 344,
+                "y": 237
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 350,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "h": 350,
+                "w": 171,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_shengji.png": {
+            "frame": {
+                "h": 276,
+                "idx": 0,
+                "w": 149,
+                "x": 810,
+                "y": 351
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 276,
+                "w": 149
+            },
+            "spriteSourceSize": {
+                "h": 276,
+                "w": 149,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_xunzhang.png": {
+            "frame": {
+                "h": 224,
+                "idx": 0,
+                "w": 108,
+                "x": 1057,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 224,
+                "w": 108
+            },
+            "spriteSourceSize": {
+                "h": 224,
+                "w": 108,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_zhanzheng.png": {
+            "frame": {
+                "h": 282,
+                "idx": 0,
+                "w": 137,
+                "x": 919,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 282,
+                "w": 137
+            },
+            "spriteSourceSize": {
+                "h": 282,
+                "w": 137,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "chengqiang.png": {
+            "frame": {
+                "h": 196,
+                "idx": 0,
+                "w": 477,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 196,
+                "w": 477
+            },
+            "spriteSourceSize": {
+                "h": 196,
+                "w": 477,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "font1.png": {
+            "frame": {
+                "h": 25,
+                "idx": 0,
+                "w": 190,
+                "x": 0,
+                "y": 592
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 25,
+                "w": 190
+            },
+            "spriteSourceSize": {
+                "h": 25,
+                "w": 190,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "icon01.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 73,
+                "x": 1080,
+                "y": 553
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 67,
+                "w": 73
+            },
+            "spriteSourceSize": {
+                "h": 67,
+                "w": 73,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "icon02.png": {
+            "frame": {
+                "h": 62,
+                "idx": 0,
+                "w": 66,
+                "x": 667,
+                "y": 237
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 62,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "h": 62,
+                "w": 66,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "liangcang.png": {
+            "frame": {
+                "h": 236,
+                "idx": 0,
+                "w": 268,
+                "x": 478,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 236,
+                "w": 268
+            },
+            "spriteSourceSize": {
+                "h": 236,
+                "w": 268,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "lv_di.png": {
+            "frame": {
+                "h": 84,
+                "idx": 0,
+                "w": 83,
+                "x": 719,
+                "y": 525
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 84,
+                "w": 83
+            },
+            "spriteSourceSize": {
+                "h": 84,
+                "w": 83,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "nongtian.png": {
+            "frame": {
+                "h": 173,
+                "idx": 0,
+                "w": 293,
+                "x": 516,
+                "y": 351
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 173,
+                "w": 293
+            },
+            "spriteSourceSize": {
+                "h": 173,
+                "w": 293,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_01$bar.png": {
+            "frame": {
+                "h": 39,
+                "idx": 0,
+                "w": 319,
+                "x": 320,
+                "y": 588
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 39,
+                "w": 319
+            },
+            "spriteSourceSize": {
+                "h": 39,
+                "w": 319,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_01.png": {
+            "frame": {
+                "h": 39,
+                "idx": 0,
+                "w": 319,
+                "x": 0,
+                "y": 552
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 39,
+                "w": 319
+            },
+            "spriteSourceSize": {
+                "h": 39,
+                "w": 319,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_02$bar.png": {
+            "frame": {
+                "h": 30,
+                "idx": 0,
+                "w": 150,
+                "x": 640,
+                "y": 610
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 30,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "h": 30,
+                "w": 150,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_02.png": {
+            "frame": {
+                "h": 30,
+                "idx": 0,
+                "w": 150,
+                "x": 516,
+                "y": 237
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 30,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "h": 30,
+                "w": 150,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "txdi.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 119,
+                "x": 960,
+                "y": 494
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 119,
+                "w": 119
+            },
+            "spriteSourceSize": {
+                "h": 119,
+                "w": 119,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "txdi2.png": {
+            "frame": {
+                "h": 126,
+                "idx": 0,
+                "w": 131,
+                "x": 1099,
+                "y": 426
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 126,
+                "w": 131
+            },
+            "spriteSourceSize": {
+                "h": 126,
+                "w": 131,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "zt.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 202,
+                "x": 516,
+                "y": 525
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 52,
+                "w": 202
+            },
+            "spriteSourceSize": {
+                "h": 52,
+                "w": 202,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "comp.png",
+        "prefix": "comp/"
+    }
+}
