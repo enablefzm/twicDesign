@@ -2,7 +2,7 @@
     "x":0,
     "type":"View",
     "selectedBox":79,
-    "selecteID":134,
+    "selecteID":140,
     "props":{"top":0,"sceneColor":"#000000","right":0,"left":0,"bottom":0},
     "nodeParent":-1,
     "label":"View",
@@ -122,6 +122,33 @@
                 {
                     "x":30,
                     "type":"Image",
+                    "props":{"y":591,"x":5,"skin":"comp/xumu.png"},
+                    "nodeParent":79,
+                    "label":"Image",
+                    "isDirectory":false,
+                    "isAniNode":true,
+                    "hasChild":false,
+                    "compId":142,
+                    "child":[
+                        ],
+                    "$HIDDEN":false
+                },
+                {
+                    "x":30,
+                    "type":"Image",
+                    "props":{"y":592,"x":59,"skin":"comp/gongye.png"},
+                    "nodeParent":79,
+                    "label":"Image",
+                    "isDirectory":false,
+                    "isAniNode":true,
+                    "hasChild":false,
+                    "compId":140,
+                    "child":[
+                        ]
+                },
+                {
+                    "x":30,
+                    "type":"Image",
                     "props":{"y":871,"x":557,"skin":"comp/shu.png"},
                     "nodeParent":79,
                     "label":"Image",
@@ -130,7 +157,8 @@
                     "hasChild":false,
                     "compId":91,
                     "child":[
-                        ]
+                        ],
+                    "$HIDDEN":false
                 },
                 {
                     "x":30,
@@ -614,14 +642,13 @@
                     "props":{"y":655,"x":116,"width":160,"var":"obMakeProduction","runtime":"mod.RunTime.HomeMakeProduction","height":30},
                     "nodeParent":79,
                     "label":"Box(obMakeProduction)",
-                    "isOpen":true,
+                    "isOpen":false,
                     "isDirectory":true,
                     "isAniNode":true,
                     "hasChild":true,
                     "compId":94,
                     "child":[
                         {
-                            "x":45,
                             "type":"Image",
                             "props":{"y":2,"x":1,"skin":"comp/di3.png"},
                             "nodeParent":94,
@@ -634,7 +661,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"Image",
                             "props":{"y":-5,"x":3,"width":60,"skin":"comp/sc_icon06.png","scaleY":0.6,"scaleX":0.6,"name":"imgItem","height":60},
                             "nodeParent":94,
@@ -648,7 +674,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"ProgressBar",
                             "props":{"y":9,"x":37,"skin":"load/progress_04.png","name":"proMake"},
                             "nodeParent":94,
@@ -662,7 +687,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"Image",
                             "props":{"y":2,"x":1,"visible":false,"skin":"comp/di4.png","name":"imgFull"},
                             "nodeParent":94,
@@ -738,14 +762,13 @@
                     "props":{"y":1174,"x":78,"width":200,"var":"exploreCards","runtime":"mod.RunTime.HomeCardList","height":82},
                     "nodeParent":79,
                     "label":"Box(exploreCards)",
-                    "isOpen":true,
+                    "isOpen":false,
                     "isDirectory":true,
                     "isAniNode":true,
                     "hasChild":true,
                     "compId":116,
                     "child":[
                         {
-                            "x":45,
                             "type":"Image",
                             "props":{"y":3,"width":200,"skin":"comp/jm_td5.png","name":"imgBox","height":103},
                             "nodeParent":116,
@@ -758,7 +781,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"Image",
                             "props":{"y":13,"x":75,"skin":"comp/icon01.png","scaleY":0.6,"scaleX":0.6,"name":"imgOpen"},
                             "nodeParent":116,
@@ -772,7 +794,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"Label",
                             "props":{"y":42,"x":61,"width":75,"text":"商人","strokeColor":"#1d5f79","stroke":2,"height":27,"fontSize":20,"color":"#ffffff","align":"center"},
                             "nodeParent":116,
@@ -785,7 +806,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"Button",
                             "props":{"y":7,"x":150,"width":65,"stateNum":"2","skin":"comp/btn_youji.png","pivotX":32,"name":"butOpen","height":65},
                             "nodeParent":116,
@@ -798,7 +818,6 @@
                                 ]
                         },
                         {
-                            "x":45,
                             "type":"List",
                             "props":{"y":13,"x":130,"width":1,"visible":false,"spaceX":16,"repeatY":1,"repeatX":5,"name":"lstCard","height":52},
                             "nodeParent":116,
@@ -810,7 +829,6 @@
                             "compId":124,
                             "child":[
                                 {
-                                    "x":60,
                                     "type":"Box",
                                     "props":{"y":27,"x":36,"width":47,"renderType":"render","pivotY":24,"pivotX":24,"height":47},
                                     "nodeParent":124,
@@ -822,7 +840,6 @@
                                     "compId":129,
                                     "child":[
                                         {
-                                            "x":75,
                                             "type":"Button",
                                             "props":{"width":47,"stateNum":"2","skin":"comp/btn_sr.png","name":"butBusiness","height":47},
                                             "nodeParent":129,
@@ -835,7 +852,6 @@
                                                 ]
                                         },
                                         {
-                                            "x":75,
                                             "type":"Image",
                                             "props":{"y":-2,"x":-2,"visible":false,"skin":"comp/btnxz_sr.png","name":"imgBg"},
                                             "nodeParent":129,
@@ -851,7 +867,6 @@
                             "$HIDDEN":false
                         },
                         {
-                            "x":45,
                             "type":"Image",
                             "props":{"y":-6,"x":101,"skin":"comp/jm_hd.png","name":"imgHow"},
                             "nodeParent":116,
@@ -863,7 +878,6 @@
                             "compId":127,
                             "child":[
                                 {
-                                    "x":60,
                                     "type":"Label",
                                     "props":{"y":6,"x":1,"width":32,"text":"3","strokeColor":"#1d5f79","stroke":2,"name":"lblHow","height":27,"fontSize":20,"color":"#ffffff","align":"center"},
                                     "nodeParent":127,
