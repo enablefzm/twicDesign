@@ -14,4 +14,6 @@
    <item name="comp/jm_td5.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,29,0,31" picType="0"/>
    <item name="comp/battle/win.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
    <item name="comp/twdtd.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,43,0,43" picType="0" scale="0"/>
+   <item name="comp/jm_td2_01.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=21,23,20,23" picType="0" scale="0"/>
+   <item name="comp/jm_td2_02.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,26,25,27" picType="0" scale="0"/>
 </res>
